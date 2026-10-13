@@ -1,0 +1,7 @@
+"Plugin ID","CVE","CVSS v2.0 Base Score","CVSS v3.0 Base Score","Risk","Host","Protocol","Port","Name","Synopsis","Description","Solution","See Also","Plugin Output"
+"156032","CVE-2021-44228","10.0","10.0","Critical","10.0.0.5","tcp","8080","Apache Log4j RCE (Log4Shell)","Remote code execution","Test row","Upgrade Log4j to 2.17.1 or later","",""
+"90001","CVE-2099-0001","5.0","7.5","High","10.0.0.5","tcp","22","Test SSH vulnerability","Test","Test row","Upgrade OpenSSH","",""
+"90002","","","5.3","Medium","10.0.0.5","tcp","443","TLS weak cipher suites","Test","Test row","Disable weak ciphers","",""
+"90003","CVE-2099-0002","9.3","9.8","Critical","10.0.0.6","tcp","445","Test SMB vulnerability","Test","Test row","Apply vendor patch","",""
+"90003","CVE-2099-0003","9.3","9.8","Critical","10.0.0.6","tcp","445","Test SMB vulnerability","Test","Test row","Apply vendor patch","",""
+"19506","","","","None","10.0.0.6","tcp","0","Nessus Scan Information","Info","Test row","n/a","",""

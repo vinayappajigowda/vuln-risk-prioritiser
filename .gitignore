@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/cache/*.json
+# Scan exports can contain sensitive details. Only commit scans of your own lab machines.
+data/scans/*.csv
+data/scans/*.nessus

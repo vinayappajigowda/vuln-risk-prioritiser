@@ -1,0 +1,6 @@
+"Plugin ID","CVE","CVSS v2.0 Base Score","CVSS v3.0 Base Score","Risk","Host","Protocol","Port","Name","Synopsis","Description","Solution","See Also","Plugin Output"
+"90001","CVE-2099-0001","5.0","7.5","High","10.0.0.5","tcp","22","Test SSH vulnerability","Test","Test row","Upgrade OpenSSH","",""
+"90002","","","5.3","Medium","10.0.0.5","tcp","443","TLS weak cipher suites","Test","Test row","Disable weak ciphers","",""
+"90003","CVE-2099-0002","9.3","9.8","Critical","10.0.0.6","tcp","445","Test SMB vulnerability","Test","Test row","Apply vendor patch","",""
+"90003","CVE-2099-0003","9.3","9.8","Critical","10.0.0.6","tcp","445","Test SMB vulnerability","Test","Test row","Apply vendor patch","",""
+"90004","CVE-2099-0004","4.3","6.1","Medium","10.0.0.6","tcp","80","Test web app vulnerability","Test","Test row","Update the web application","",""

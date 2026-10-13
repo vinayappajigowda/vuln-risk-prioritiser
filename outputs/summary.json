@@ -1,0 +1,29 @@
+{
+  "scans": 2,
+  "latest_scan": "2026-10-13",
+  "hosts": 1,
+  "open_findings": 43,
+  "fixed_findings": 6,
+  "open_by_tier": {
+    "P1": 14,
+    "P2": 11,
+    "P3": 2,
+    "P4": 16
+  },
+  "open_in_kev": 0,
+  "open_ransomware": 0,
+  "open_kev_recent": 0,
+  "overdue": 0,
+  "mean_days_to_fix": 1.0,
+  "fixed_within_sla_pct": 100.0,
+  "high_cvss_open": 12,
+  "high_cvss_but_low_priority": 1,
+  "below_high_cvss_but_urgent": 14,
+  "top10_overlap": {
+    "n": 10,
+    "overlap": 5,
+    "missed_by_cvss": 5
+  },
+  "cves_without_epss": 0,
+  "findings_without_cve": 21
+}
